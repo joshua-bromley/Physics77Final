@@ -1,7 +1,1 @@
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+This library creates functions that can be implemented to numerically solve coupled ordinary differential equations. Among these techniques are implementations of numerical integration, Runge-Kutta Methods, and other tools; the library is intended for application to physics problems, allowing users to define forces and initial conditions and then evolving the system accordingly. The tests simulate gravitational forces between many bodies.
